@@ -3,4 +3,14 @@
   <groupId>task1</groupId>
   <artifactId>GitDay1Task1</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
+  
+  <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-server -->
+<dependency>
+    <groupId>org.seleniumhq.selenium</groupId>
+    <artifactId>selenium-server</artifactId>
+    <version>3.141.59</version>
+</dependency>
+  
+  </dependencies>
 </project>
