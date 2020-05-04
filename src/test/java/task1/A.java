@@ -13,6 +13,7 @@ public class A {
 		String title = driver.getTitle();
 		System.out.println(title);
 		System.out.println("do again");
+		System.out.println("ghu");
 		String currentUrl = driver.getCurrentUrl();
 		System.out.println(currentUrl);
 		driver.quit();
