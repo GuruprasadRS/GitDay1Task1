@@ -19,6 +19,8 @@ public class A {
 		String pageSource = driver.getPageSource();
 		System.out.println(pageSource);
 		System.out.println("guruprasad");
+		System.out.println("prasad");
+		System.out.println("guru");
 		
 	}
 }
