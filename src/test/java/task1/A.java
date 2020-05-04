@@ -12,8 +12,6 @@ public class A {
 		driver.manage().window().maximize();
 		String title = driver.getTitle();
 		System.out.println(title);
-		System.out.println("do again");
-		System.out.println("ghu");
 		String currentUrl = driver.getCurrentUrl();
 		System.out.println(currentUrl);
 		driver.quit();
@@ -21,7 +19,12 @@ public class A {
 		String pageSource = driver.getPageSource();
 		System.out.println(pageSource);
 		System.out.println("guruprasad");
+		System.out.println("prasad");
+		System.out.println("guru");
 		System.out.println("guru ");
 		System.out.println("prasad gghg");
+		System.out.println("do again");
+		System.out.println("ghu");
+
 	}
 }
