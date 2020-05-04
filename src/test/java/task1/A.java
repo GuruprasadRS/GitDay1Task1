@@ -21,6 +21,10 @@ public class A {
 		System.out.println("guruprasad");
 		System.out.println("prasad");
 		System.out.println("guru");
-		
+		System.out.println("guru ");
+		System.out.println("prasad gghg");
+		System.out.println("do again");
+		System.out.println("ghu");
+
 	}
 }
