@@ -12,6 +12,7 @@ public class A {
 		driver.manage().window().maximize();
 		String title = driver.getTitle();
 		System.out.println(title);
+		System.out.println("do again");
 		String currentUrl = driver.getCurrentUrl();
 		System.out.println(currentUrl);
 		driver.quit();
